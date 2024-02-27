@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._05_Loops.Loops</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._03_Functions_Methods.Methods</StartupObject>
   </PropertyGroup>
 
 </Project>
