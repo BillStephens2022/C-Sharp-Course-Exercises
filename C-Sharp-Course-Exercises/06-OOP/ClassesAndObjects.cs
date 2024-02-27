@@ -28,6 +28,13 @@ namespace C_Sharp_Course_Exercises._06_OOP
             {
                 Console.WriteLine("Car drives indefinitely");
             }
+
+            Phone myPhone1 = new Phone();
+            Phone myPhone2 = new Phone("Apple", "iPhone 14");
+            Phone myPhone3 = new Phone("Samsung", "S4 Ultra", "2024");
+            myPhone1.Introduce();
+            myPhone2.Introduce();   
+            myPhone3.Introduce();   
         }
     }
 }
