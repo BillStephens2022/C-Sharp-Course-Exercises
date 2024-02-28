@@ -25,6 +25,22 @@ namespace C_Sharp_Course_Exercises._07B_Collections_MultiDimensionalArrays
             };
 
             Console.WriteLine("Central Value is {0}", array2D[1,1]); // access position row =1 column =1 which should be a value of 5, i.e. the center position
+            // for each loop
+            Console.WriteLine("Looping through 2D array using 'foreach': ");
+            foreach (int item in array2D)
+            {
+                Console.Write(item + " ");
+            }
+            Console.WriteLine();
+            Console.WriteLine("Looping through 2D array using 'nested for loop':");
+            for (int i = 0; i < array2D.GetLength(0); i++)
+            {
+                for (int j = 0; j < array2D.GetLength(1); j++)
+                {
+                    Console.Write(array2D[i, j] + " ");
+                }
+            }
+            Console.WriteLine();
 
             string[,,] array3D = new string[,,]
             {
@@ -58,7 +74,7 @@ namespace C_Sharp_Course_Exercises._07B_Collections_MultiDimensionalArrays
             int dimensions = array2DString.Rank;  // Rank returns the # of dimensions in an array
             Console.WriteLine("The array2DString array has {0} dimensions", dimensions);
 
-            // example of declaring and assigning values to a 2d array without using
+            // example of declaring and initializing a 2d array without using
             // "new" keyword or defining capacity.  Will infer this automatically.
             int[,] array2D2 = { { 1, 2 }, { 3, 4 }, { 4, 5 } };
             Console.WriteLine("Value at position (1,1) is {0}", array2D2[1,1]); // 4
