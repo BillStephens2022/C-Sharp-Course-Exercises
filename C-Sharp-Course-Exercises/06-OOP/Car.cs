@@ -15,30 +15,22 @@ namespace C_Sharp_Course_Exercises._06_OOP
         private int _hp;
         private string _color;
 
-        // Getters
-        public string GetName()
+        // Properties
+        public string Name
         {
-            return _name;
-        }
-
-        public int GetHp()
-        {
-            return _hp;
-        }
-
-        // Setters
-        public void SetName(string name)
-        {
-            if(name == "")
+            get { return _name; } // the 'get' accessor (used in place of getter methods)
+            set
             {
-                _name = "DefaultName";
-            }
-            else
-            {
-                _name = name;
+                if (value == "")
+                {
+                    _name = "DefaultName";
+                }
+                else
+                {
+                    _name = value; // the 'set' accessor (used inplace of setter methods) - takes whatever name is given in parentheses i.e. myCar.Name("MYCARSNAME");
+                }
             }
         }
-
         // Default Constructor
         public Car()
         {

@@ -12,9 +12,8 @@ namespace C_Sharp_Course_Exercises._06_OOP
         static void Main(string[] args)
         {
             Car myCar = new Car();
-            myCar.SetName("My best car");
-            Console.WriteLine("My car's name is: " + myCar.GetName());
-            Console.WriteLine("Performance: " + myCar.GetHp() + " horsepower");
+            myCar.Name = "MyAudiA3";  // using myCar's Name property to 'set' the name to the value in parentheses
+            Console.WriteLine("My Car's name is: " + myCar.Name); // using myCar's Name property to 'get' the name
             myCar.Details();
             Car audi = new Car("Audi A4", 275, "blue");
             audi.Drive();
