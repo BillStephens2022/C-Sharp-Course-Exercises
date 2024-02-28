@@ -48,6 +48,9 @@ namespace C_Sharp_Course_Exercises._06_OOP
             Console.WriteLine("myBook1's title is: " + myBook1.Title);
             Console.WriteLine("myBook1's # of pages is: " + myBook1.Pages);
 
+            Members member1 = new Members();
+            member1.Introducing(true);
+            Console.ReadKey();
         }
     }
 }
