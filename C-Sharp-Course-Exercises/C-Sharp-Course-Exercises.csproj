@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._06_OOP.ClassesAndObjects</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._07A_Collections_Arrays.MainProgram</StartupObject>
   </PropertyGroup>
 
 </Project>
