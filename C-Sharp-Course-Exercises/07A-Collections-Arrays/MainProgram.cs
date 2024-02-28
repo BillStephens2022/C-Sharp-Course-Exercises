@@ -83,6 +83,10 @@ namespace C_Sharp_Course_Exercises._07A_Collections_Arrays
             }
 
             string input1;
+
+            // example of using a do while loop to continue asking for input until a valid integer is
+            // entered by the user.  "out _" notation just says we don't care about the result of the parse,
+            // we just want to ensure that it can be parsed into an integer.
             do
             {
                 Console.WriteLine("Please enter a valid number:");
