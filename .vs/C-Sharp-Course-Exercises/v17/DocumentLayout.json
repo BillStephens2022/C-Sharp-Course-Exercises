@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\06-oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\06-oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\06-oop\\classesandobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\06-oop\\classesandobjects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\01-datatypes\u0026variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\01-datatypes\u0026variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\06-oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\06-oop\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,39 +82,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\Car.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\06-OOP\\Car.cs",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\Car.cs",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\06-OOP\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACoAAAAAAAAAAAAkwC0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T21:08:06.346Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Phone.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\Phone.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\06-OOP\\Phone.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\Phone.cs*",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\06-OOP\\Phone.cs*",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\Phone.cs",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\06-OOP\\Phone.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAwCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T21:05:54.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T21:05:54.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ClassesAndObjects.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\ClassesAndObjects.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\06-OOP\\ClassesAndObjects.cs",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\06-OOP\\ClassesAndObjects.cs*",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\06-OOP\\ClassesAndObjects.cs*",
-              "ViewState": "AQIAABQAAAAAAAAAAAAiwCUAAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA4wAwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T19:57:26.848Z",
               "EditorCaption": ""
@@ -129,12 +128,11 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\05-Loops\\LoopsExercise.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:27:10.181Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:27:10.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Variables.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\01-DataTypes\u0026Variables\\Variables.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\01-DataTypes\u0026Variables\\Variables.cs",
@@ -142,8 +140,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\01-DataTypes\u0026Variables\\Variables.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAIAzwAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T18:57:04.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T18:57:04.693Z"
             },
             {
               "$type": "Document",
@@ -155,8 +152,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\05-Loops\\LoopsBreakAndContinue.cs",
               "ViewState": "AQIAAEQAAAAAAAAAAAAUwFwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:30:30.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:30:30.185Z"
             },
             {
               "$type": "Document",
@@ -167,8 +163,7 @@
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-27T19:12:25.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:12:25.855Z"
             },
             {
               "$type": "Document",
@@ -180,8 +175,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\01-DataTypes\u0026Variables\\StringsChallenge1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:24:26.401Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:24:26.401Z"
             },
             {
               "$type": "Document",
@@ -193,8 +187,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\01-DataTypes\u0026Variables\\Parsing.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAIwBwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:22:14.95Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:22:14.95Z"
             },
             {
               "$type": "Document",
@@ -206,21 +199,19 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\.gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-02-27T19:02:40.08Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:02:40.08Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "C-Sharp-Course-Exercises",
+              "Title": "C-Sharp-Course-Exercises.csproj",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-27T19:17:25.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:17:25.306Z"
             },
             {
               "$type": "Document",
@@ -232,8 +223,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\01-DataTypes\u0026Variables\\Strings.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:14:57.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:14:57.843Z"
             },
             {
               "$type": "Document",
@@ -245,8 +235,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\05-Loops\\Loops.cs",
               "ViewState": "AQIAAEAAAAAAAAAAAAAUwFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:10:04.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:10:04.145Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T18:03:37.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T18:03:37.577Z"
             },
             {
               "$type": "Document",
@@ -283,8 +271,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\03-Functions\u0026Methods\\Methods.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-27T19:18:03.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-27T19:18:03.388Z"
             }
           ]
         }

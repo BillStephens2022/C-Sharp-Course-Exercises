@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace C_Sharp_Course_Exercises._06_OOP
 {
@@ -14,12 +15,37 @@ namespace C_Sharp_Course_Exercises._06_OOP
         private int _hp;
         private string _color;
 
+        // Getters
+        public string GetName()
+        {
+            return _name;
+        }
+
+        public int GetHp()
+        {
+            return _hp;
+        }
+
+        // Setters
+        public void SetName(string name)
+        {
+            if(name == "")
+            {
+                _name = "DefaultName";
+            }
+            else
+            {
+                _name = name;
+            }
+        }
+
         // Default Constructor
         public Car()
         {
             _name = "Car";
-            _hp = 0;
+            _hp = 100;
             _color = "black";
+            Console.WriteLine("A new car with name: '{0}' was created!", _name);
         }
 
         // Constructor
@@ -28,7 +54,7 @@ namespace C_Sharp_Course_Exercises._06_OOP
             _name = name;
             _hp = hp;
             _color = color;
-            Console.WriteLine("A new car with name: '{0}' was created!", name);
+            Console.WriteLine("A new car with name: '{0}' was created!", _name);
         }
 
         // Member methods

@@ -12,6 +12,10 @@ namespace C_Sharp_Course_Exercises._06_OOP
         static void Main(string[] args)
         {
             Car myCar = new Car();
+            myCar.SetName("My best car");
+            Console.WriteLine("My car's name is: " + myCar.GetName());
+            Console.WriteLine("Performance: " + myCar.GetHp() + " horsepower");
+            myCar.Details();
             Car audi = new Car("Audi A4", 275, "blue");
             audi.Drive();
             Car bmw = new Car("BMW M5", 350, "red");
@@ -28,6 +32,7 @@ namespace C_Sharp_Course_Exercises._06_OOP
             {
                 Console.WriteLine("Car drives indefinitely");
             }
+         
 
             Phone myPhone1 = new Phone();
             Phone myPhone2 = new Phone("Apple", "iPhone 14");
@@ -35,6 +40,7 @@ namespace C_Sharp_Course_Exercises._06_OOP
             myPhone1.Introduce();
             myPhone2.Introduce();   
             myPhone3.Introduce();   
+
         }
     }
 }
