@@ -13,7 +13,9 @@ namespace C_Sharp_Course_Exercises._06_OOP
         {
             Car myCar = new Car();
             myCar.Name = "MyAudiA3";  // using myCar's Name property to 'set' the name to the value in parentheses
+            myCar.MaxSpeed = 180;
             Console.WriteLine("My Car's name is: " + myCar.Name); // using myCar's Name property to 'get' the name
+            Console.WriteLine("My Car's Max Speed is: " + myCar.MaxSpeed);
             myCar.Details();
             Car audi = new Car("Audi A4", 275, "blue");
             audi.Drive();
@@ -39,6 +41,12 @@ namespace C_Sharp_Course_Exercises._06_OOP
             myPhone1.Introduce();
             myPhone2.Introduce();   
             myPhone3.Introduce();   
+
+            Book myBook1 = new Book();
+            myBook1.Title = "Of Mice and Men";
+            myBook1.Pages = 304;
+            Console.WriteLine("myBook1's title is: " + myBook1.Title);
+            Console.WriteLine("myBook1's # of pages is: " + myBook1.Pages);
 
         }
     }

@@ -15,7 +15,11 @@ namespace C_Sharp_Course_Exercises._06_OOP
         private int _hp;
         private string _color;
 
-        // Properties
+        // Auto implemented properties - creates a private anonymous field which can only be accessed through
+        // the get / set methods
+        public int MaxSpeed { get; set; }
+
+        // Properties (public)
         public string Name
         {
             get { return _name; } // the 'get' accessor (used in place of getter methods)
