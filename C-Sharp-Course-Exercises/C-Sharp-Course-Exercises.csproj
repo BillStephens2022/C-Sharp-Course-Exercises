@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._07F_Collections_ArrayLists.Program</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._07H_Collections_HashTablesChallenge.Program</StartupObject>
   </PropertyGroup>
 
 </Project>

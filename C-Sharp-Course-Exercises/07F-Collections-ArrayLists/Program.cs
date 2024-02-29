@@ -26,7 +26,8 @@ namespace C_Sharp_Course_Exercises._07F_Collections_ArrayLists
             myArrayList.Add(25.33);
             myArrayList.Add(13);
 
-            // removes element with a specific value (removes the number 13 from the array list)
+            // removes 1st element with a specific value (removes the number 13 from the array list)
+            // note that it only removes one of the 13 values (there are 2 added in the ArrayList)
             myArrayList.Remove(13);
 
             // delete element at specific index position
