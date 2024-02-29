@@ -40,6 +40,9 @@ namespace C_Sharp_Course_Exercises._07E_Collections_ParamsKeyword
             Console.WriteLine(avg1);
             Console.WriteLine(avg2);
             Console.WriteLine(avg3);
+
+            int min = MinV2(6, -45, 2, -8, 0, 1, 5);
+            Console.WriteLine("The minimum is: {0}", min);
         }
 
         public static void ParamsMethod(params string[] sentence)
@@ -84,6 +87,17 @@ namespace C_Sharp_Course_Exercises._07E_Collections_ParamsKeyword
             if (count == 0) return 0;
 
             return (double)total / count;
+        }
+
+        public static int MinV2(params int[] numbers)
+        {
+            int min = int.MaxValue;  // int.MaxValue tells us the maximum value an integer data type can have
+            
+            foreach (int number in numbers)
+            {
+                if (number < min) min = number;
+            }
+            return min;
         }
     }
 }
