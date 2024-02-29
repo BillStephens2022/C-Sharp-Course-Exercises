@@ -26,9 +26,6 @@ namespace C_Sharp_Course_Exercises._07B_Collections_MultiDimensionalArrays
                         return true;
                     }
                 }
-
-
-
             }
 
             // check left to right diagonal

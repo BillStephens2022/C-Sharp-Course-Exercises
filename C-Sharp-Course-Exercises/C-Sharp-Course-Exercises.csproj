@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._07B_Collections_MultiDimensionalArrays.MultiDimensionalArrays</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._07C_Collections_JaggedArrays.JaggedArrays</StartupObject>
   </PropertyGroup>
 
 </Project>
