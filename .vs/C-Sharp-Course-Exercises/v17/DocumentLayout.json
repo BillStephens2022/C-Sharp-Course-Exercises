@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07d-collections-arraysasparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07d-collections-arraysasparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07e-collections-paramskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07e-collections-paramskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07d-collections-arraysasparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07d-collections-arraysasparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07c-collections-jaggedarrays\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -44,11 +48,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs*",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs*",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwB8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T13:58:50.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwB0AAAA1AAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAB0AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T11:51:22.041Z",
               "EditorCaption": ""
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
@@ -75,13 +92,12 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
               "ViewState": "AQIAAFIAAAAAAAAAAAAIwGIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T11:07:08.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T11:07:08.977Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "C-Sharp-Course-Exercises",
+              "Title": "C-Sharp-Course-Exercises.csproj",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
@@ -93,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TicTacToe.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T18:26:41.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T18:26:41.418Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
@@ -114,8 +129,7 @@
               "RelativeToolTip": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:53:58.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-28T15:53:58.674Z"
             }
           ]
         }
