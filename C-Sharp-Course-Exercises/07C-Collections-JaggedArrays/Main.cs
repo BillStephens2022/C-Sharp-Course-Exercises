@@ -81,6 +81,10 @@ namespace C_Sharp_Course_Exercises._07C_Collections_JaggedArrays
 
 
             // ################JAGGED ARRAY CHALLENGE#############################
+
+            // create a jagged array with 3 friends with some of their family members.  Each family
+            // gets its own array.
+            // introduce different people from different families to each other
             string[][] friendsFamilies = new string[][]
             {
                 new string[] {"David", "Rob", "Gina", "Dave" },
