@@ -13,6 +13,7 @@ namespace C_Sharp_Course_Exercises._07I_Collections_Dictionaries
             // Declare a new Dictionary
             Dictionary<int, string> myDictionary = new Dictionary<int, string>()
             {
+                { 0, "zero" },
                 { 1, "one" },
                 { 2, "two" },
                 { 3, "three" },
