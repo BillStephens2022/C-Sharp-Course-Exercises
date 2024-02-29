@@ -78,6 +78,19 @@ namespace C_Sharp_Course_Exercises._07C_Collections_JaggedArrays
                     Console.WriteLine(grid[i, j]);
                 }
             }
+
+
+            // ################JAGGED ARRAY CHALLENGE#############################
+            string[][] friendsFamilies = new string[][]
+            {
+                new string[] {"David", "Rob", "Gina", "Dave" },
+                new string[] {"Ed", "Bridget", "Sam", "Alex", "Ruth", "Gerry" },
+                new string[] {"Paul", "Steph", "Lily" }
+            };
+
+            Console.WriteLine("Hi, {0}, meet {1}", friendsFamilies[0][0], friendsFamilies[1][1]);
+            Console.WriteLine("Hi, {0}, meet {1}", friendsFamilies[1][0], friendsFamilies[0][2]);
+            Console.WriteLine("Hi, {0}, meet {1}", friendsFamilies[1][2], friendsFamilies[2][2]);
         }
     }
 }
