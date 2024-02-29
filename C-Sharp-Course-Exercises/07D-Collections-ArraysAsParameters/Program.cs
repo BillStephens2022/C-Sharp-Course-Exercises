@@ -25,6 +25,14 @@ namespace C_Sharp_Course_Exercises._07D_Collections_ArraysAsParameters
             {
                 Console.WriteLine(" {0} ", grade);
             }
+
+            // note that even though the result of the function was saved into the new array,
+            // the original array is changed as well.
+            Console.WriteLine("Checking to see if original array was changed as well (it should have been updated also):");
+            foreach (int grade in studentsGrades)
+            {
+                Console.WriteLine(" {0} ", grade);
+            }
         }
 
         static double GetAverage(int[] gradesArray)
