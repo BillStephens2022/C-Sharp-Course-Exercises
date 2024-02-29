@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07j-collections-stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07j-collections-stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07k-collections-queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07k-collections-queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07j-collections-stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07j-collections-stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs*",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs*",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:40:06.292Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -38,13 +55,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs*",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs*",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADcAAAANAAAA",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T20:42:25.534Z",
               "EditorCaption": ""

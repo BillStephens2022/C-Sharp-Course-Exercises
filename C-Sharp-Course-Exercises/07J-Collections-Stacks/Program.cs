@@ -54,6 +54,7 @@ namespace C_Sharp_Course_Exercises._07J_Collections_Stacks
                 Console.Write(num + " ");
                 reversedNumbers.Push(num);
             }
+
             Console.WriteLine();
             Console.WriteLine("============Reversed Numbers Stack==========");
             foreach (int num in reversedNumbers)
