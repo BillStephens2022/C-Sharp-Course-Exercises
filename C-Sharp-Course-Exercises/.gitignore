@@ -57,3 +57,23 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Visual Studio generated files
+.vs/C-Sharp-Course-Exercises/
+.vs/ProjectEvaluation/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.tlog/
+*.tlog/*
+*.dbmdl
+*.jfm
+*.gpState
+
+# Rider
+.idea/
+
+# Mono Auto Generated Files
+mono_crash.*
+
