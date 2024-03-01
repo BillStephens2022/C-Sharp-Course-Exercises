@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-Sharp-Course-Exercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4e47ff4aa8a2370fc9146b0f52f19b95b8a306")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ef7043640fed2bf6e3b3017aa8b20314a89488b")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-Sharp-Course-Exercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-Sharp-Course-Exercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
