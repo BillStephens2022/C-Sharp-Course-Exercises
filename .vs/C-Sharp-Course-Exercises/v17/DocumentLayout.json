@@ -3,44 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07h-collections-hashtableschallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07h-collections-hashtableschallenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07g-collections-hashtables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07g-collections-hashtables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07k-collections-queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07k-collections-queues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07f-collections-arraylists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07f-collections-arraylists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07e-collections-paramskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07e-collections-paramskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07d-collections-arraysasparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07d-collections-arraysasparameters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07c-collections-jaggedarrays\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07c-collections-jaggedarrays\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07b-collections-multidimensionalarrays\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07b-collections-multidimensionalarrays\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07b-collections-multidimensionalarrays\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07b-collections-multidimensionalarrays\\tictactoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\07j-collections-stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\07j-collections-stacks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -60,125 +32,47 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07H-Collections-HashTablesChallenge\\Program.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07H-Collections-HashTablesChallenge\\Program.cs",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07H-Collections-HashTablesChallenge\\Program.cs",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\07H-Collections-HashTablesChallenge\\Program.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAIwCoAAAANAAAA",
+=======
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs*",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\07K-Collections-Queues\\Program.cs*",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAmwHUAAABBAAAA",
+>>>>>>> fd79ee704653d6c0f3d49d272e8ac303e7eb179c
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T18:47:02.374Z",
+              "WhenOpened": "2024-02-29T21:40:06.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07G-Collections-HashTables\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07G-Collections-HashTables\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07G-Collections-HashTables\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07G-Collections-HashTables\\Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAkwEoAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T18:13:06.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07F-Collections-ArrayLists\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07F-Collections-ArrayLists\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07F-Collections-ArrayLists\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07F-Collections-ArrayLists\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T16:35:09.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07E-Collections-ParamsKeyword\\Program.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAmwCsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T13:58:50.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07D-Collections-ArraysAsParameters\\Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAB0AAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T11:51:22.041Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "C-Sharp-Course-Exercises",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-29T11:09:19.53Z",
+              "WhenOpened": "2024-02-29T20:42:52.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07C-Collections-JaggedArrays\\Main.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAIwGIAAAAFAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\07J-Collections-Stacks\\Program.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T11:07:08.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "C-Sharp-Course-Exercises.csproj",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-29T11:06:27.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TicTacToe.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\TicTacToe.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T18:26:41.418Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\07B-Collections-MultiDimensionalArrays\\Main.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-28T15:53:58.674Z"
+              "WhenOpened": "2024-02-29T20:42:25.534Z",
+              "EditorCaption": ""
             }
           ]
         }
