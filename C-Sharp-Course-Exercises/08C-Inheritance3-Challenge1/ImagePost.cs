@@ -28,7 +28,7 @@ namespace C_Sharp_Course_Exercises._08C_Inheritance3
         }
 
         public override string ToString() {
-            return String.Format("{0} - {1} - image link: {2} - by {3}, ", this.ID, this.Title, this.ImageURL, this.SendByUsername);
+            return String.Format("{0} - {1} - image link: {2} - by {3}", this.ID, this.Title, this.ImageURL, this.SendByUsername);
         }
     }
 }
