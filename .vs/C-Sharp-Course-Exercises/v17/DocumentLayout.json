@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08h-inheritance-ienumerable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08h-inheritance-ienumerable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08i-inheritance-ienumerable3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08i-inheritance-ienumerable3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08h-inheritance-ienumerable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08h-inheritance-ienumerable2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08g-inheritance-ienumerable1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -68,10 +72,23 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08I-Inheritance-IEnumerable3\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08I-Inheritance-IEnumerable3\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08I-Inheritance-IEnumerable3\\Program.cs*",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\08I-Inheritance-IEnumerable3\\Program.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T13:46:23.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08H-Inheritance-IEnumerable2\\Program.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08H-Inheritance-IEnumerable2\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08H-Inheritance-IEnumerable2\\Program.cs*",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08H-Inheritance-IEnumerable2\\Program.cs*",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08H-Inheritance-IEnumerable2\\Program.cs",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\08H-Inheritance-IEnumerable2\\Program.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAAADYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T13:24:52.834Z",
@@ -79,20 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACIAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T12:44:31.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Vehicle.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Vehicle.cs",
@@ -105,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Chair.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Chair.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Chair.cs",
@@ -118,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Program.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Program.cs",
@@ -131,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces1\\Ticket.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces1\\Ticket.cs",
@@ -156,7 +160,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\08G-Inheritance-IEnumerable1\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T12:44:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IDestroyable.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\IDestroyable.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\IDestroyable.cs",
@@ -169,7 +186,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Furniture.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Furniture.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Furniture.cs",
@@ -182,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Car.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08F-Inheritance6-Interfaces2\\Car.cs",
@@ -195,12 +212,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "C-Sharp-Course-Exercises",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj*",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-02T11:26:44.827Z",
@@ -208,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces1\\Program.cs",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces1\\Program.cs",
