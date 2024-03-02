@@ -3,38 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\",
   "Documents": [
     {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08-inheritance\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08-inheritance\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08e-inheritance5-interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08e-inheritance5-interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08-inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08-inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08d-inheritance4-challenge2\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08d-inheritance4-challenge2\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> e0e54d5545a96e6d051b69a592fdfb4401059e8e
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08d-inheritance4-challenge2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08d-inheritance4-challenge2\\boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08-inheritance\\electronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08-inheritance\\electronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-=======
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08d-inheritance4-challenge2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08d-inheritance4-challenge2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08d-inheritance4-challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08d-inheritance4-challenge2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
->>>>>>> e0e54d5545a96e6d051b69a592fdfb4401059e8e
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\08e-inheritance5-interfaces\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\08e-inheritance5-interfaces\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|c:\\users\\two4o\\desktop\\c# development\\c-sharp-course-exercises\\c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D240AB25-A057-49BF-9DBE-44CD367012BE}|C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj|solutionrelative:c-sharp-course-exercises\\c-sharp-course-exercises.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,11 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< HEAD
           "SelectedChildIndex": 3,
-=======
-          "SelectedChildIndex": 1,
->>>>>>> e0e54d5545a96e6d051b69a592fdfb4401059e8e
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,96 +34,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Trainee.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Trainee.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Trainee.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Trainee.cs*",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Trainee.cs*",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwCIAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:35:38.804Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 2,
-              "Title": "TV.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08-Inheritance\\TV.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08-Inheritance\\TV.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08-Inheritance\\TV.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08-Inheritance\\TV.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAANAAAA",
-=======
               "DocumentIndex": 1,
-              "Title": "Boss.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Boss.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Boss.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Boss.cs*",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Boss.cs*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCQAAABHAAAA",
->>>>>>> e0e54d5545a96e6d051b69a592fdfb4401059e8e
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Ticket.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Ticket.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Ticket.cs",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Ticket.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:26:47.367Z",
+              "WhenOpened": "2024-03-02T11:27:56.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-<<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "C-Sharp-Course-Exercises",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T11:26:44.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Radio.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08-Inheritance\\Radio.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08-Inheritance\\Radio.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08-Inheritance\\Radio.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08-Inheritance\\Radio.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAABhAAAA",
-=======
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Employee.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Employee.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Employee.cs*",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Employee.cs*",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAowCAAAAA/AAAA",
->>>>>>> e0e54d5545a96e6d051b69a592fdfb4401059e8e
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Program.cs*",
+              "RelativeToolTip": "C-Sharp-Course-Exercises\\08E-Inheritance5-Interfaces\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:22:44.558Z",
+              "WhenOpened": "2024-03-02T11:26:23.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "C-Sharp-Course-Exercises",
               "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "RelativeToolTip": "C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-01T20:22:18.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08-Inheritance\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08-Inheritance\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08-Inheritance\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08-Inheritance\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAiAAAA",
-=======
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Program.cs",
-              "RelativeDocumentMoniker": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Program.cs",
-              "ToolTip": "C:\\Users\\two4o\\Desktop\\C# Development\\C-Sharp-Course-Exercises\\C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Program.cs",
-              "RelativeToolTip": "C-Sharp-Course-Exercises\\08D-Inheritance4-Challenge2\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwB0AAAAcAAAA",
->>>>>>> e0e54d5545a96e6d051b69a592fdfb4401059e8e
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T20:20:30.811Z",
+              "WhenOpened": "2024-03-01T16:21:28.211Z",
               "EditorCaption": ""
             }
           ]
