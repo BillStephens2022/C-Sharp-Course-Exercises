@@ -23,7 +23,16 @@ namespace C_Sharp_Course_Exercises._08G_Inheritance_IEnumerator_IEnumerable
         /// collection by exposing a Current property that points at the object we are currently
         /// at in the collection.
         /// </summary>
-        /// <param name="args"></param>
+        /// 
+        /// 
+        /// when is it recommended to use the IEnumerable interface:
+        ///  - Your collection represents a massive database table,
+        ///  you don't want to copy the entire thing  into memory and cause performance issues
+        ///  in your application.
+        ///  
+        /// when it's not recommended to use the IEnumerable interface:
+        /// - You need the results right away and are possibly mutating/editing the objects later on.
+        /// In this case, it is better to use an Array or a List
 
 
         static void Main(string[] args)
