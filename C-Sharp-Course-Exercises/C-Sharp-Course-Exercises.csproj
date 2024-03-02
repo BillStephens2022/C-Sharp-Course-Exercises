@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._08E_Inheritance5_Interfaces.Program</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._08F_Inheritance6_Interfaces2.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
