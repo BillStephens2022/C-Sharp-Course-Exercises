@@ -23,6 +23,7 @@ namespace C_Sharp_Course_Exercises._08F_Inheritance6_Interfaces2
             damagedCar.DestroyablesNearby.Add(officeChair);
             damagedCar.DestroyablesNearby.Add(gamingChair);
 
+            // destroy the car which will cause chain reaction of destroying the nearby chairs as well
             damagedCar.Destroy();
 
         }
