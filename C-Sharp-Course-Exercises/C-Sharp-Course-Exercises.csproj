@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._08I_Inheritance_IEnumerable3.Program</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._08J_Inheritance_IEnumerable_Exercise.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
