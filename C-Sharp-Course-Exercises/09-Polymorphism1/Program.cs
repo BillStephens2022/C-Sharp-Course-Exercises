@@ -28,6 +28,14 @@ namespace C_Sharp_Course_Exercises._09_Polymorphism1
             audi1.ShowDetails();  // note that the method uses' Car class ShowDetails() Method
             audi2.ShowDetails();  // note that the method uses' Audi class ShowDetails() Method 
 
+            Car bmwZ3 = new BMW(295, "black", "Z3"); 
+            bmwZ3.ShowDetails();
+            bmwZ3.SetCarIDInfo(80872024, "Bill Stephens");
+            audi2.SetCarIDInfo(74632024, "Marsellus Wallace");
+            bmwZ3.GetCarIDInfo();
+            audi2.GetCarIDInfo();
+            
+
             // using casting to cast the audi2 car from BMW to Car
             Console.WriteLine();
             Console.WriteLine("Test using casting:");

@@ -27,7 +27,11 @@ namespace C_Sharp_Course_Exercises._09_Polymorphism1
             Console.WriteLine($"This {Color} {Brand} {Model} has {HP} horsepower");
         }
 
-        public override void Repair()
+
+        // note the "sealed" keyword - this is opposite of "virtual" - by being sealed,
+        // it does not allow any subclasses of BMW (i.e. the M3 class) to override this method.
+        // Sealing classes and methods prevents inheritance.
+        public sealed override void Repair()
         {
             Console.WriteLine($"The {Color} {Brand} {Model} has been repaired!!");
         }

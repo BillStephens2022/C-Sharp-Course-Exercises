@@ -10,7 +10,19 @@ namespace C_Sharp_Course_Exercises._09_Polymorphism1
     {
         public int HP { get; set; }
         public string Color { get; set; }
+        
+        // "Has a" relationship with CarIDInfo class.
+        protected CarIDInfo carIDInfo = new CarIDInfo();
+        public void SetCarIDInfo(int idNum, string owner)
+        {
+            carIDInfo.IDNum = idNum;
+            carIDInfo.Owner = owner;
+        }
 
+        public void GetCarIDInfo()
+        {
+            Console.WriteLine("The car has the ID of {0} and is owned by {1}", carIDInfo.IDNum, carIDInfo.Owner);
+        }
         public Car(int hp, string color)
         {
             HP = hp;
