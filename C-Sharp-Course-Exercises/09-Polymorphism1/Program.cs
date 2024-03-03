@@ -33,6 +33,9 @@ namespace C_Sharp_Course_Exercises._09_Polymorphism1
             Console.WriteLine("Test using casting:");
             Car car1 = (Car)audi2;
             car1.ShowDetails(); // will use Car's ShowDetails method
+
+            M3 myM3 = new M3(260, "red", "M3 Super Turbo");
+            myM3.Repair();
         }
     }
 }
