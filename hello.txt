@@ -1,0 +1,4 @@
+Hello, World!
+I am going to try to open
+this text file from a C# program.
+Let's see if it works.

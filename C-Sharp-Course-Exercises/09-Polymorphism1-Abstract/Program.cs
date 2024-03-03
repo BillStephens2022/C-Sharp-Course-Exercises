@@ -28,6 +28,8 @@ namespace C_Sharp_Course_Exercises._09_Polymorphism1_Abstract
                     Console.WriteLine($"This shape: {shape.Name} is a cube");
                 }
 
+
+                // casting from "object" to "Cube"
                 object cube1 = new Cube(7);
                 Cube cube2 = (Cube)cube1; // casting object cube1 into a Cube.
 
