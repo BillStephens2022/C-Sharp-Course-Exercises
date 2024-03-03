@@ -11,7 +11,7 @@ namespace C_Sharp_Course_Exercises._09_Polymorphism1
         public int HP { get; set; }
         public string Color { get; set; }
         
-        // "Has a" relationship with CarIDInfo class.
+        // "Has a" relationship with CarIDInfo class.  Allows us to add properties from another Class
         protected CarIDInfo carIDInfo = new CarIDInfo();
         public void SetCarIDInfo(int idNum, string owner)
         {
