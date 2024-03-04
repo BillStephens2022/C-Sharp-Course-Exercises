@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace C_Sharp_Course_Exercises._10_AdvancedTopics_Structs
-{'
+{
     internal class Program
     {
         // a struct is similar to a class, however structs do not support
