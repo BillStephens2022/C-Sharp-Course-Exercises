@@ -3,7 +3,7 @@
 namespace C_Sharp_Course_Exercises._10B_AdvancedTopics_Enums
 {
     // Enums are typically set up at the 'namespace' level so they can be used throughout the namespace.
-    enum Day { Mon, Tue, Wed, Thu, Fri, Sat, Sun };
+    enum Day { Mon, Tue, Wed, Thu, Fri, Sat, Sun }
     internal class Program
     {
         static void Main(string[] args)
