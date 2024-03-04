@@ -27,6 +27,30 @@ namespace C_Sharp_Course_Exercises._10C_AdvancedTopics_Math
             Console.WriteLine("The absolute value of -42 is: " + Math.Abs(-42));  // 42
 
             Console.WriteLine("The cosine of 1 is: {0}", Math.Cos(1)); // 0.5403023058681398
+
+            Run("75");
+        }
+
+        public static double ConvertToRadians(double angle)
+        {
+            return (Math.PI / 180) * angle;
+        }
+
+        public static void Run(string line)
+        {
+            int num;
+            bool success = int.TryParse(line, out num);
+            if (success && (num >=0 && num <=180))
+            {
+               double radians = ConvertToRadians((double) num);
+               Console.WriteLine("Cos = {0}", Math.Cos(radians));
+               Console.WriteLine("Sin = {0}", Math.Sin(radians));
+               Console.WriteLine("Tg = {0}", Math.Tan(radians));
+            }
+            else
+            {
+                Console.WriteLine("Check the input!");
+            }
         }
     }
 }
