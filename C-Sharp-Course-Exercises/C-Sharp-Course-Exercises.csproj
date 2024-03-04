@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._10B_AdvancedTopics_Enums.Program</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._10C_AdvancedTopics_Math.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
