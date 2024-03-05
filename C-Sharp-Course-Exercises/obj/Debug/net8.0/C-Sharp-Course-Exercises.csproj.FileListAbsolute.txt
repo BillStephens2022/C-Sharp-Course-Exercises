@@ -13,3 +13,5 @@ C:\Users\two4o\Desktop\C# Development\C-Sharp-Course-Exercises\C-Sharp-Course-Ex
 C:\Users\two4o\Desktop\C# Development\C-Sharp-Course-Exercises\C-Sharp-Course-Exercises\obj\Debug\net8.0\C-Sharp-Course-Exercises.genruntimeconfig.cache
 C:\Users\two4o\Desktop\C# Development\C-Sharp-Course-Exercises\C-Sharp-Course-Exercises\obj\Debug\net8.0\ref\C-Sharp-Course-Exercises.dll
 C:\Users\two4o\Desktop\C# Development\C-Sharp-Course-Exercises\C-Sharp-Course-Exercises\obj\Debug\net8.0\C-Sharp-Course-Exercises.sourcelink.json
+C:\Users\two4o\Desktop\C# Development\C-Sharp-Course-Exercises\C-Sharp-Course-Exercises\obj\Debug\net8.0\C_Sharp_Course_Exercises.Properties.Resources.resources
+C:\Users\two4o\Desktop\C# Development\C-Sharp-Course-Exercises\C-Sharp-Course-Exercises\obj\Debug\net8.0\C-Sharp-Course-Exercises.csproj.GenerateResource.cache
