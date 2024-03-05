@@ -39,7 +39,8 @@ namespace C_Sharp_Course_Exercises._11B_Events_Delegates_CreatingDelegates
 
 
             string searchKeyword = "A";
-            // using a lambda to filter
+
+            // using a lambda statement block to filter
             DisplayPeople("age > 20 with search keyword: " + searchKeyword, people, p =>
             {
                 if (p.Name.Contains(searchKeyword) && p.Age > 20)
@@ -51,6 +52,7 @@ namespace C_Sharp_Course_Exercises._11B_Events_Delegates_CreatingDelegates
                 }
             });
 
+            // using a lambda expression
             DisplayPeople("exactly 25: ", people, p => p.Age == 25);
         }
 
