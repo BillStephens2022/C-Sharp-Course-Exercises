@@ -19,7 +19,6 @@ namespace C_Sharp_Course_Exercises._11C_Events_Delegates_DelegateExercise
             OperationDelegate multiplyDelegate = Multiply;
             OperationDelegate divideDelegate = Divide;
 
-            // Example usage
             Console.WriteLine(ApplyOperation(1, 2, addDelegate));
             Console.WriteLine(ApplyOperation(3, 2, subtractDelegate));
             Console.WriteLine(ApplyOperation(4, 5, multiplyDelegate));

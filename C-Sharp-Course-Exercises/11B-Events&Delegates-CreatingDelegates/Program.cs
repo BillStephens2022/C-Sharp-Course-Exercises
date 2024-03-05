@@ -20,9 +20,38 @@ namespace C_Sharp_Course_Exercises._11B_Events_Delegates_CreatingDelegates
 
             List<Person> people = new List<Person>() { p1, p2, p3, p4 };
 
-            DisplayPeople("Kids", people, IsMinor);
-            DisplayPeople("Adults", people, IsAdult);
-            DisplayPeople("Seniors", people, IsSenior);
+            DisplayPeople("Kids:", people, IsMinor);
+            DisplayPeople("Adults:", people, IsAdult);
+            DisplayPeople("Seniors:", people, IsSenior);
+
+            // creating a new variable called filter of type FilterDelegate
+            // then assign an anonmymous method to it instead of an already defined method.
+            FilterDelegate filter = delegate (Person p)
+            {
+                return p.Age >= 20 && p.Age <= 30;
+            };
+
+            // using new filter
+            DisplayPeople("Between 20 and 30:", people, filter);
+            // anonymous method
+            DisplayPeople("All:", people, delegate (Person p) { return true; });
+
+
+
+            string searchKeyword = "A";
+            // using a lambda to filter
+            DisplayPeople("age > 20 with search keyword: " + searchKeyword, people, p =>
+            {
+                if (p.Name.Contains(searchKeyword) && p.Age > 20)
+                {
+                    return true;
+                } else
+                {
+                    return false;
+                }
+            });
+
+            DisplayPeople("exactly 25: ", people, p => p.Age == 25);
         }
 
         static void DisplayPeople(string title, List<Person> people, FilterDelegate Filter)
