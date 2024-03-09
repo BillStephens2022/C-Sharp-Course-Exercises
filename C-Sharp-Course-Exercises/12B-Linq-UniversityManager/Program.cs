@@ -30,8 +30,24 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
             {
                 Console.WriteLine("Enter an valid university Id (integer)!");
             }
-            
-   
+            int[] someInts = { 30, 12, 4, 3, 12 };
+            // sort
+            IEnumerable<int> sortedInts = from i in someInts orderby i select i;
+            // reverse sort
+            IEnumerable<int> reversedInts = sortedInts.Reverse();
+
+            foreach (int i in reversedInts)
+            {
+                Console.WriteLine(i);
+            }
+
+            // another way to reverse sort
+            IEnumerable<int> reversedSortedInts = from i in someInts orderby i descending select i;
+            foreach (int i in reversedSortedInts)
+            {
+                Console.WriteLine(i);
+            }
+
         }
     }
 
