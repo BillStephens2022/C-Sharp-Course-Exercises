@@ -35,7 +35,7 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
             students.Add(new Student { Id = 11, Name = "Lilith", Gender = "female", Age = 20, UniversityId = 1 });
         }
 
-        public void MaleStudents()
+        public void ShowMaleStudents()
         {
             IEnumerable<Student> maleStudents = from student in students where student.Gender == "male" select student;
             Console.WriteLine("Male - Students: ");
@@ -46,12 +46,22 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
             }
         }
 
-        public void FemaleStudents()
+        public void ShowFemaleStudents()
         {
             IEnumerable<Student> femaleStudents = from student in students where student.Gender == "female" select student;
             Console.WriteLine("Female - Students: ");
 
             foreach (Student student in femaleStudents)
+            {
+                student.Print();
+            }
+        }
+
+        public void SortStudentsByAge()
+        {
+            var sortedStudents = from student in students orderby student.Age select student;
+            Console.WriteLine("Students sorted by Age:");
+            foreach(Student student in sortedStudents)
             {
                 student.Print();
             }

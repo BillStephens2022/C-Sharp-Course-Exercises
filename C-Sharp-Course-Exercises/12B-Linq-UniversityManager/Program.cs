@@ -11,9 +11,11 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
         static void Main(string[] args)
         {
             UniversityManager um = new UniversityManager();
-            um.MaleStudents();
+            um.ShowMaleStudents();
 
-            um.FemaleStudents();
+            um.ShowFemaleStudents();
+
+            um.SortStudentsByAge();
    
         }
     }
