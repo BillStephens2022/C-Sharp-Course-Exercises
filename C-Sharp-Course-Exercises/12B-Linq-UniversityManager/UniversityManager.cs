@@ -66,5 +66,18 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
                 student.Print();
             }
         }
+
+        public void AllStudentsFromRutgers()
+        {
+            IEnumerable<Student> rutgersStudents = from student in students
+                                                   join university in universities on student.UniversityId equals university.Id
+                                                   where university.Name == "Rutgers"
+                                                   select student;
+            Console.WriteLine("List of Students from Rutgers:");
+            foreach (Student student in rutgersStudents)
+            {
+                student.Print();
+            }
+        }
     }
 }

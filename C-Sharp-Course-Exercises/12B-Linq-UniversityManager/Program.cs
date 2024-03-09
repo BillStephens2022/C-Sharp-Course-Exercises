@@ -16,6 +16,8 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
             um.ShowFemaleStudents();
 
             um.SortStudentsByAge();
+
+            um.AllStudentsFromRutgers();
    
         }
     }
