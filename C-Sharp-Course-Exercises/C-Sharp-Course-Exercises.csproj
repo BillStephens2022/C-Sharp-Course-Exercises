@@ -6,7 +6,7 @@
     <RootNamespace>C_Sharp_Course_Exercises</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>C_Sharp_Course_Exercises._11E_Events_Delegates_Events_MulticastDelegates.Program</StartupObject>
+    <StartupObject>C_Sharp_Course_Exercises._12B_Linq_UniversityManager.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
