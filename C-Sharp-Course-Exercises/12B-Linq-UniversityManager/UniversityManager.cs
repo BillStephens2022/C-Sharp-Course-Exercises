@@ -19,7 +19,7 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
 
             // add some universities
             universities.Add(new University { Id = 1, Name = "Yale" });
-            universities.Add(new University { Id = 1, Name = "Rutgers" });
+            universities.Add(new University { Id = 2, Name = "Rutgers" });
 
             // add some students
             students.Add(new Student { Id = 1, Name = "Carla", Gender = "female", Age = 17, UniversityId = 1 });
@@ -75,6 +75,19 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
                                                    select student;
             Console.WriteLine("List of Students from Rutgers:");
             foreach (Student student in rutgersStudents)
+            {
+                student.Print();
+            }
+        }
+
+        public void ShowStudentsByUniversity(int IdOfUniversity)
+        {
+            IEnumerable<Student> uniStudents = from student in students
+                                                   join university in universities on student.UniversityId equals university.Id
+                                                   where university.Id == IdOfUniversity
+                                                   select student;
+            Console.WriteLine("List of Students from {0}:", IdOfUniversity);
+            foreach (Student student in uniStudents)
             {
                 student.Print();
             }
