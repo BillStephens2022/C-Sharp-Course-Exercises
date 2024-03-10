@@ -92,5 +92,19 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
                 student.Print();
             }
         }
+
+        public void StudentAndUniversityNameCollection()
+        {
+            var newCollection = from student in students
+                                join university in universities on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name };
+            Console.WriteLine("New Collection: ");
+
+            foreach(var col in newCollection)
+            {
+                Console.WriteLine("Student {0} from University {1}", col.StudentName, col.UniversityName);
+            }
+        }
     }
 }

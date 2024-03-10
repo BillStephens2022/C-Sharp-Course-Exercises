@@ -30,6 +30,10 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
             {
                 Console.WriteLine("Enter an valid university Id (integer)!");
             }
+
+            um.StudentAndUniversityNameCollection();
+
+
             int[] someInts = { 30, 12, 4, 3, 12 };
             // sort
             IEnumerable<int> sortedInts = from i in someInts orderby i select i;
@@ -47,7 +51,6 @@ namespace C_Sharp_Course_Exercises._12B_Linq_UniversityManager
             {
                 Console.WriteLine(i);
             }
-
         }
     }
 
