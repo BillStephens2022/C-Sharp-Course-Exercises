@@ -10,6 +10,12 @@ namespace C_Sharp_Course_Exercises._13_Threads_ThreadPools___BackgroundThreads
     {
         static void Main(string[] args)
         { 
+            new Thread(() =>
+            {
+                Thread.Sleep(1000);
+                Console.WriteLine("Thread 4");
+            })
+            { IsBackground = true }.Start();
 
             Enumerable.Range(0, 100).ToList().ForEach(f => 
             {
